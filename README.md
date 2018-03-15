@@ -1,4 +1,4 @@
-# ico-contracts
+# ico-contract
 ICO Contract https://elevate8.io
 
 
